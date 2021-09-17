@@ -13,3 +13,5 @@ vlans:
     name: FINANCE
   - id: 70
     name: HR
+  - id: 80
+    name: HR2
