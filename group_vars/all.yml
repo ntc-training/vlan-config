@@ -9,3 +9,6 @@ vlans:
     name: EMAIL
   - id: 50
     name: LAN
+ - id: 80
+    name: HR2
+
