@@ -11,4 +11,5 @@ vlans:
     name: LAN
   - id: 80
     name: HR2
-
+  - id: 90
+    name: FINANCE
