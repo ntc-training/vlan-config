@@ -7,8 +7,6 @@ vlans:
     name: USERS
   - id: 40
     name: EMAIL
-  - id: 50
-    name: LAN
   - id: 80
     name: HR2
   - id: 90
