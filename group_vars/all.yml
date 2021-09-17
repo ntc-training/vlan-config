@@ -9,3 +9,7 @@ vlans:
     name: EMAIL
   - id: 50
     name: LAN
+  - id: 60
+    name: FINANCE
+  - id: 70
+    name: HR
